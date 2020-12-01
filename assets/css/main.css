@@ -1,0 +1,3623 @@
+@charset "UTF-8";
+@media (min-width: 769px) {
+  .cRFMEf {
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    width: calc(100% - 480px);
+    height: 540px;
+  }
+}
+@media (min-width: 769px) {
+  .imbEMU {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    flex-direction: row-reverse;
+    height: 550px;
+  }
+}
+.imbEMU {
+  position: relative;
+}
+
+.jvIGcp, .RwfQQ, .eHPAcP {
+  clip-path: polygon(50px 0px, calc(100% - 0px) 0px, 100% calc(100% - 17px), calc(100% - 10px) calc(100% - 17px), calc(100% - 10px) 100%, 10px calc(100% - 10px), 10px calc(100% - 17px), 0px calc(100% - 17px));
+  overflow: hidden;
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+
+@media (min-width: 769px) {
+  .hiSnWC {
+    height: 100%;
+  }
+}
+.hiSnWC {
+  position: absolute;
+  top: 50%;
+  transform: translate(105%, -50%) scale(1.05, 1.05);
+}
+
+.bVWZRR {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 66.26%;
+  overflow: hidden;
+}
+
+.mYwoT {
+  cursor: pointer;
+  text-decoration: none;
+  color: #ff7500;
+}
+
+@media (min-width: 769px) {
+  .fCWQsO {
+    transition-duration: 350ms;
+  }
+}
+.iYVFsB {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 83.33%;
+  overflow: hidden;
+}
+
+@media (max-width: 768px) {
+  .dSPMGM {
+    display: none;
+  }
+}
+.bbnpxz {
+  padding: 20px 20px 40px;
+  height: 235px;
+}
+
+@media (min-width: 961px) {
+  .kbjTPF::before {
+    width: 20%;
+  }
+}
+@media (min-width: 569px) {
+  .kbjTPF::before {
+    width: 20%;
+  }
+}
+.kbjTPF::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 22px;
+  width: 20%;
+}
+
+@media (min-width: 569px) {
+  .kbjTPF::before {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+    content: "";
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 24px;
+    width: 20%;
+  }
+}
+.dSPMGM {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  width: 60px;
+  height: 50px;
+  padding: 0px;
+  z-index: 10;
+}
+
+.fCWQsO {
+  position: relative;
+}
+
+.buxBZE {
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.fyNUhT {
+  margin-bottom: 20px;
+  font-size: 14px;
+  font-weight: 300;
+  line-height: 18px;
+  color: #1d2129;
+  height: 90px;
+  max-height: 90px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+}
+
+@media (min-width: 769px) {
+  .fyNUhT {
+    height: 72px;
+    max-height: 72px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+  }
+}
+.fHtZgT {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.fyNUhT::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 72px;
+  width: 20%;
+}
+
+@media (min-width: 769px) {
+  .fyNUhT::before {
+    width: 20%;
+  }
+}
+@media (min-width: 769px) {
+  .fyNUhT::before {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+    content: "";
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 54px;
+    width: 20%;
+  }
+}
+@media (min-width: 961px) {
+  .fyNUhT::before {
+    width: 20%;
+  }
+}
+.kbjTPF {
+  font-weight: 700;
+  color: #1d2129;
+  margin-bottom: 20px;
+  text-decoration: none;
+  max-height: 44px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.jQcPxo {
+  position: absolute;
+  bottom: 20px;
+  left: 20px;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+kYKomu {
+  font-weight: 700;
+  color: #ffc600;
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.jQcPxo svg {
+  fill: currentcolor;
+  margin-left: 5px;
+}
+
+.htpOzL {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.04%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/fit-in/36x23/filters:blur(3):quality(40)/www/photos/69065740_746041592495183_2482238179348840448_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.AIkDv {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.04%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/fit-in/36x23/filters:blur(3):quality(40)/www/photos/TomorrowlandNYEArtwork_JhxGbAM.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.MAxiB {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.04%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/fit-in/36x23/filters:blur(3):quality(40)/www/photos/121634482_1701524766672980_6598071666756936147_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 569px) {
+  .kbjTPF {
+    max-height: 48px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+@media (max-width: 960px) and (min-width: 769px) {
+  .haWFYm {
+    width: 100%;
+  }
+}
+@media (min-width: 769px) {
+  .dcUphd {
+    width: 390px;
+    margin-left: 0px;
+  }
+}
+.dcUphd {
+  margin: auto;
+}
+
+@media (min-width: 769px) {
+  .ftCgyp {
+    font-size: 42px;
+    line-height: 46px;
+  }
+}
+@media (min-width: 569px) {
+  .ftCgyp {
+    font-size: 40px;
+    line-height: 44px;
+  }
+}
+.ftCgyp {
+  font-weight: 700;
+  color: #1d2129;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 36px;
+  line-height: 40px;
+}
+
+.eeRQaD {
+  font-weight: 300;
+  color: #1d2129;
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.ezHsBV {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: #242529;
+  color: white;
+}
+
+.bIKmzS {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-size: 16px;
+  min-width: 200px;
+  min-height: 50px;
+  padding: 15px 30px;
+}
+
+@media (min-width: 769px) {
+  .eTwHEx {
+    margin-top: 50px;
+  }
+}
+.eTwHEx {
+  margin-top: 40px;
+  margin-bottom: 0px;
+}
+
+.igkOwZ {
+  border: none;
+  outline: none;
+  margin: 0px;
+}
+
+.drFjQw {
+  position: sticky;
+  top: 0px;
+  z-index: 20;
+  background: white;
+  color: #697180;
+  box-shadow: rgba(29, 33, 41, 0.15) 0px 30px 20px -32px;
+}
+
+.jJbNvc {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+}
+
+.coVMMx {
+  margin-top: 10px;
+}
+
+.cQu {
+  position: relative;
+  min-width: 0px;
+}
+
+.hbhyLm {
+  white-space: nowrap;
+  overflow: auto hidden;
+  user-select: none;
+  list-style: none;
+  padding: 0px;
+  display: flex;
+}
+
+.dzAzbh {
+  padding: 30px 0px 25px;
+  border-bottom: 5px solid transparent;
+  margin-right: 30px;
+  position: relative;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.hehtq {
+  padding: 0px;
+  margin: 0px;
+  border-bottom: none;
+}
+
+.cqZXPZ {
+  cursor: pointer;
+  display: inline-block;
+  white-space: nowrap;
+  font-weight: 700;
+  padding: 30px 0px 25px;
+  border-bottom: 5px solid transparent;
+  margin-right: 40px;
+  text-decoration: none;
+  color: inherit;
+}
+
+.qbwIx {
+  padding: 30px 0px 25px;
+  border-bottom: 5px solid #242529;
+  margin-right: 30px;
+  position: relative;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  color: #1d2129;
+}
+
+.bDKAsZ {
+  position: relative;
+}
+
+.bDKAsZ {
+  margin-top: 60px;
+}
+
+@media (min-width: 569px) {
+  .bDKAsZ {
+    margin-top: 80px;
+  }
+}
+.bDKAsZ::before {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 170px;
+  height: 100px;
+  width: 100%;
+  background: #f2f3f5;
+  z-index: -1;
+  clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px 0px);
+}
+
+@media (min-width: 569px) {
+  .bDKAsZ::before {
+    top: 150px;
+  }
+}
+.kYpuZU {
+  margin-bottom: 30px;
+}
+
+@media (min-width: 569px) {
+  .kYpuZU {
+    margin-bottom: 35px;
+  }
+}
+@media (min-width: 769px) {
+  .kYpuZU {
+    margin-bottom: 40px;
+  }
+}
+.iJoksY {
+  cursor: pointer;
+  display: flex;
+  -webkit-box-align: baseline;
+  align-items: baseline;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  margin-bottom: 10px;
+}
+
+.EBtUQ {
+  font-weight: 700;
+  color: #1d2129;
+  margin-bottom: 0px;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+.iOWwPV {
+  font-weight: 300;
+  color: #1d2129;
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+@media (max-width: 650px) {
+  .gqsgew {
+    display: block !important;
+  }
+}
+@media (max-width: 768px) {
+  .gqsgew {
+    flex-wrap: nowrap;
+    overflow-x: auto;
+  }
+}
+.gqsgew {
+  list-style-type: none;
+  display: flex;
+  padding: 0px;
+}
+
+@media (max-width: 568px) {
+  .gqsgew::before {
+    content: "";
+    flex: 0 0 20px;
+  }
+}
+@media (max-width: 768px) {
+  .gqsgew::before {
+    content: "";
+    flex: 0 0 50px;
+  }
+}
+.gJylVC {
+  display: inline-block;
+  flex: 0 0 280px;
+}
+
+@media (min-width: 769px) {
+  .gJylVC {
+    flex: 1 1 0px;
+  }
+}
+.kxpRfk {
+  cursor: pointer;
+  text-decoration: none;
+  color: #ffc600;
+}
+
+.gJylVC:not(:first-of-type) {
+  margin-left: 9px;
+  margin-left: 9px;
+}
+
+.dwUjMh {
+  cursor: pointer;
+  text-decoration: none;
+  color: #0070f6;
+}
+
+.gftGMW {
+  cursor: pointer;
+  text-decoration: none;
+  color: #242529;
+}
+
+@media (max-width: 568px) {
+  .gqsgew::after {
+    content: "";
+    flex: 0 0 20px;
+  }
+}
+.bDKAsZ::after {
+  display: block;
+  content: "";
+  position: absolute;
+  top: -60px;
+  left: 0px;
+  right: 0px;
+  height: 231px;
+  background: #f2f3f5;
+  z-index: -1;
+}
+
+.fBYHfR {
+  margin-bottom: 60px;
+}
+
+@media (min-width: 569px) {
+  .fBYHfR {
+    margin-bottom: 80px;
+  }
+}
+@media (min-width: 769px) {
+  .fBYHfR {
+    margin-bottom: 100px;
+  }
+}
+@media (min-width: 769px) {
+  .jhDsFH {
+    min-height: 224px;
+  }
+}
+@media (max-width: 768px) {
+  .jhDsFH {
+    text-align: center;
+    padding-top: 220px;
+  }
+}
+.jhDsFH {
+  position: relative;
+  background-color: #242529;
+}
+
+@media (min-width: 769px) {
+  .dFyDIT {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 62.5%;
+    padding-right: 140px;
+    padding-left: 35px;
+    z-index: 11;
+    height: 100%;
+    clip-path: polygon(0px 0px, calc(100% - 85px) 0px, calc(100% - 105px) 33%, 100% 45%, calc(100% - 80px) 100%, 0px 100%);
+  }
+}
+@media (min-width: 769px) {
+  .dFyDIT {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+.dFyDIT {
+  padding: 20px;
+  background-color: #242529;
+}
+
+@media (min-width: 569px) {
+  .dFyDIT {
+    padding-left: 35px;
+    padding-right: 35px;
+  }
+}
+@media (min-width: 569px) {
+  .dFyDIT {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}
+.jZHEbz {
+  font-weight: 700;
+  color: white;
+  margin-bottom: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.dkEVqT {
+  font-weight: 400;
+  color: white;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+@media (min-width: 569px) {
+  .dkEVqT {
+    margin-bottom: 25px;
+  }
+}
+@media (min-width: 769px) {
+  .dkEVqT {
+    margin-bottom: 30px;
+  }
+}
+.cRviaM {
+  display: flex;
+  flex-direction: column;
+}
+
+@media (min-width: 569px) {
+  .cRviaM {
+    flex-direction: row;
+  }
+}
+@media (max-width: 568px) {
+  .jslvoP:not(:last-of-type) {
+    margin-bottom: 20px;
+  }
+}
+.jslvoP {
+  width: 100%;
+}
+
+.fGmtHC {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  width: 100%;
+  background-color: white;
+  color: #242529;
+}
+
+.hWoYaO {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.eGzXIt {
+  text-decoration: none;
+}
+
+@media (min-width: 769px) {
+  .illzId {
+    display: block;
+  }
+}
+@media (min-width: 569px) {
+  .jslvoP:nth-of-type(2n+1) {
+    padding-right: 10px;
+  }
+}
+@media (min-width: 569px) {
+  .jslvoP {
+    width: 50%;
+  }
+}
+@media (min-width: 569px) {
+  .jslvoP:nth-of-type(2n) {
+    padding-left: 10px;
+  }
+}
+.illzId {
+  display: none;
+  position: absolute;
+  background-color: rgba(29, 33, 41, 0.2);
+  right: 0px;
+  top: 0px;
+  width: 120px;
+  height: 100%;
+  clip-path: polygon(calc(100% - 110px) 0px, 100% 0px, 100% 100%, calc(100% - 115px) 100%, calc(100% - 13px) calc(45% - 40px), 0px calc(33% - 40px));
+}
+
+.hkVxUv {
+  clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px calc(100% - 25px));
+}
+
+@media (min-width: 769px) {
+  .hkVxUv {
+    background-position-y: 25%;
+  }
+}
+.hkVxUv {
+  background-image: url("../img/corona.jpg");
+  background-position: 50% 16%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 220px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  z-index: 10;
+}
+
+@media (min-width: 769px) {
+  .hkVxUv {
+    height: 100%;
+    width: calc(37.5% + 105px);
+  }
+}
+@media (min-width: 769px) {
+  .hkVxUv {
+    background-position-y: 25%;
+  }
+}
+@media (max-width: 768px) {
+  .dcUphd {
+    text-align: center;
+  }
+}
+@media (max-width: 768px) {
+  .kYZpKC {
+    display: none;
+  }
+}
+.klTmID {
+  fill: currentcolor;
+  color: #242529;
+}
+
+@media (min-width: 569px) {
+  .EBtUQ {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+@media (min-width: 769px) {
+  .EBtUQ {
+    font-size: 30px;
+    line-height: 34px;
+  }
+}
+.cfmrki {
+  min-width: 100px;
+  text-align: right;
+}
+
+.pKWvv {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  color: #697180;
+  background-color: transparent;
+}
+
+.hWoYaO {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.eGzXIt {
+  text-decoration: none;
+}
+
+.jBRUFK {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-size: 16px;
+  padding: 0px;
+}
+
+.pKWvv svg {
+  fill: currentcolor;
+}
+
+.hLRKnm {
+  fill: currentcolor;
+  margin-left: 5px;
+}
+
+@media (min-width: 769px) {
+  .bzrjrF {
+    padding: 0px 50px;
+  }
+}
+.YOUwL {
+  position: relative;
+}
+
+@media (max-width: 768px) {
+  .cHaTKg {
+    display: none;
+  }
+}
+.cHaTKg {
+  position: absolute;
+  display: flex;
+  z-index: 10;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  box-shadow: rgba(29, 33, 41, 0.15) 0px 2px 30px 0px;
+  cursor: pointer;
+  left: -19px;
+  top: calc(50% - 19px);
+}
+
+.mXFif {
+  fill: currentcolor;
+  cursor: pointer;
+}
+
+.kDtncq {
+  position: absolute;
+  display: flex;
+  z-index: 10;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  box-shadow: rgba(29, 33, 41, 0.15) 0px 2px 30px 0px;
+  cursor: pointer;
+  right: -19px;
+  top: calc(50% - 19px);
+}
+
+@media (max-width: 768px) {
+  .kDtncq {
+    display: none;
+  }
+}
+@media (min-width: 769px) {
+  .dysKzR {
+    position: relative;
+    overflow-x: hidden;
+  }
+}
+@media (max-width: 2000px) {
+  .dysKzR {
+    overflow-x: auto;
+    scroll-snap-type: x mandatory;
+  }
+}
+@media (max-width: 768px) {
+  .gAUgiE {
+    flex-wrap: nowrap;
+  }
+}
+.gAUgiE {
+  list-style-type: none;
+  display: flex;
+  padding: 0px;
+}
+
+@media (min-width: 961px) {
+  .gAUgiE {
+    transform: translateX(-200%) translateX(-40px);
+  }
+}
+@media (min-width: 769px) {
+  .gAUgiE {
+    transition: transform 675ms ease-in-out 0s;
+    transform: translateX(-200%) translateX(-40px);
+  }
+}
+@media (max-width: 768px) {
+  .gAUgiE::before {
+    content: "";
+    flex: 0 0 50px;
+  }
+}
+.dkeDfn {
+  width: 220px;
+  flex: 0 0 220px;
+  margin-right: 10px;
+}
+
+@media (min-width: 961px) {
+  .dkeDfn {
+    width: calc(25% - 15px);
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(25% - 15px);
+  }
+}
+@media (max-width: 768px) {
+  .dkeDfn {
+    scroll-snap-align: center;
+  }
+}
+@media (max-width: 960px) and (min-width: 769px) {
+  .dkeDfn {
+    width: calc(33.3333% - 13.3333px);
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(33.3333% - 13.3333px);
+  }
+}
+@media (min-width: 769px) {
+  .dkeDfn {
+    margin-right: 20px;
+  }
+}
+@media (max-width: 568px) {
+  .gAUgiE::after {
+    content: "";
+    flex: 0 0 20px;
+  }
+}
+.bLNxHC {
+  position: relative;
+  overflow: hidden;
+}
+
+.cMTSfC {
+  background-color: #f2f3f5;
+  transition: all 350ms ease 0s;
+}
+
+@media (min-width: 769px) {
+  .ftmPtr {
+    transition: transform 675ms ease-in-out 0s;
+    transform: translateX(0%) translateX(0px);
+  }
+}
+@media (max-width: 768px) {
+  .ftmPtr {
+    flex-wrap: nowrap;
+  }
+}
+.ftmPtr {
+  list-style-type: none;
+  display: flex;
+  padding: 0px;
+}
+
+@media (min-width: 961px) {
+  .ftmPtr {
+    transform: translateX(0%) translateX(0px);
+  }
+}
+.gCbQzP {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos}/home_category_country_united_kingdom_2_8xGD6Ld.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+iemZeu {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  filter: blur(10px);
+}
+
+.kYBUcs {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  will-change: opacity;
+  transition: opacity 0.6s ease-in-out 0s;
+  opacity: 1;
+}
+
+.hZcMjk {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  padding: 60px 10px 10px;
+  background: linear-gradient(rgba(0, 0, 0, 0), rgba(0, 0, 0, 0.6));
+}
+
+@media (min-width: 569px) {
+  .hZcMjk {
+    padding: 80px 20px 20px;
+  }
+}
+@media (min-width: 769px) {
+  .hZcMjk {
+    will-change: transform;
+  }
+}
+.ciSuNV {
+  display: inline-block;
+}
+
+@media (min-width: 569px) {
+  .hmEpBy {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+.hmEpBy {
+  font-weight: 700;
+  color: white;
+  margin-bottom: 5px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.liuInI {
+  display: inline-block;
+}
+
+.fFVAGH {
+  font-weight: 300;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.RdUnJ {
+  font-weight: 400;
+  color: white;
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.lokbWU {
+  font-weight: 700;
+}
+
+.cPbKHA {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/home_category_country_france_1_Lsxgt3s.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.iemZeu {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  filter: blur(10px);
+}
+
+.hoIgzP {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/JTFMF2019_V2_OVb0Xnd.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 569px) {
+  .hmEpBy {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+.hmEpBy {
+  font-weight: 700;
+  color: white;
+  margin-bottom: 5px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.jhIUgj {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/GermanyCategoryCard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fzsIOx {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/Netherlands.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bKTjOC {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/home_category_country_spain_1_qn7T5mh.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.iUtaLQ {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/Portugal.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ktRaXc {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/Croatia.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kAMjCt {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/Australia.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kltiSH {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/czech-republic_MZ3qvWo.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.iIUPhq {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/canada_1_jBXiPBw.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fUEXPv {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/Belgium.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 568px) {
+  .ePtscU::before {
+    content: "";
+    flex: 0 0 20px;
+  }
+}
+@media (max-width: 768px) {
+  .ePtscU::before {
+    content: "";
+    flex: 0 0 50px;
+  }
+}
+@media (max-width: 568px) {
+  .ePtscU::after {
+    content: "";
+    flex: 0 0 20px;
+  }
+}
+@media (max-width: 768px) {
+  .ePtscU::after {
+    content: "";
+    flex: 0 0 50px;
+  }
+}
+.mXFif {
+  fill: currentcolor;
+  cursor: pointer;
+}
+
+.evnctQ {
+  fill: currentcolor;
+  cursor: pointer;
+}
+
+.cHaTKg {
+  position: absolute;
+  display: flex;
+  z-index: 10;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  box-shadow: rgba(29, 33, 41, 0.15) 0px 2px 30px 0px;
+  cursor: pointer;
+  left: -19px;
+  top: calc(50% - 19px);
+}
+
+.eeLDBQ {
+  position: absolute;
+  display: flex;
+  z-index: 10;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  box-shadow: rgba(29, 33, 41, 0.15) 0px 2px 30px 0px;
+  cursor: pointer;
+  right: -19px;
+  top: calc(50% - 19px);
+}
+
+.fMXkMu {
+  display: block;
+  margin: -10px 0px;
+}
+
+@media (min-width: 569px) {
+  .fMXkMu {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -25px -13px;
+  }
+}
+.fMXkMu > div {
+  padding: 10px 0px;
+}
+
+@media (min-width: 569px) {
+  .fMXkMu > div {
+    padding: 25px 13px;
+    width: 50%;
+    max-width: 50%;
+  }
+}
+@media (min-width: 769px) {
+  .fMXkMu > div {
+    width: 33.3333%;
+    max-width: 33.3333%;
+  }
+}
+.kcNVpr {
+  position: relative;
+  border-radius: 5px;
+  box-shadow: rgba(29, 33, 41, 0.05) 0px 2px 11px, rgba(29, 33, 41, 0.12) 0px 1px 3px;
+  background-color: white;
+}
+
+.GzVgp {
+  color: #697180;
+}
+
+.kcNVpr a {
+  text-decoration: none;
+}
+
+.eoBpts {
+  position: absolute;
+  z-index: 1;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+.emXbBz {
+  position: relative;
+  line-height: 0;
+  z-index: 0;
+}
+
+.bdGfLa {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: #f2f3f5;
+}
+
+.cBsPhW {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/TomorrowlandNYECard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ldatzF {
+  padding: 20px;
+  height: 156px;
+}
+
+@media (min-width: 569px) {
+  .ldatzF {
+    height: 160px;
+  }
+}
+.gcUmpT {
+  font-weight: 700;
+  color: #1d2129;
+  margin-bottom: 5px;
+  text-decoration: none;
+  max-height: 44px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media (min-width: 569px) {
+  .gcUmpT {
+    max-height: 48px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+@media (min-width: 569px) {
+  .gcUmpT::before {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+    content: "";
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 24px;
+    width: 20%;
+  }
+}
+djdDsp {
+  padding: 0px;
+  list-style: none;
+  min-height: 1.2em;
+  max-height: 1.2em;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  display: block;
+  line-height: 1.2;
+  background-color: white;
+}
+
+djdDsp:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.djdDsp::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 100%);
+  content: "‌";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 50px;
+  text-align: center;
+  z-index: 1;
+}
+
+.iljbZw:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.iljbZw {
+  padding: 0px;
+  list-style: none;
+  min-height: 1.2em;
+  max-height: 1.2em;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  display: block;
+  line-height: 1.2;
+  background-color: white;
+}
+
+cTKhZB {
+  display: inline-block;
+}
+
+.NOWTV {
+  font-weight: 400;
+  color: #1d2129;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.cTKhZB:not(:last-of-type)::after {
+  content: "•";
+  color: #1d2129;
+  margin: 0px 5px;
+}
+
+.cNVIiS {
+  display: flex;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
+}
+
+.jkLDeb {
+  display: flex;
+}
+
+.hgTIaT {
+  margin-right: -11px;
+  z-index: 1;
+}
+
+.htljAj {
+  border-radius: 50%;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  flex: 0 0 38px;
+  width: 38px;
+  height: 38px;
+  border: 2px solid white;
+}
+
+.htljAj img, .htljAj svg {
+  width: 100%;
+  object-fit: cover;
+}
+
+.hNjzXZ {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/Tiesto_New_aSAsaNS.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.eFmoIZ {
+  margin-right: -11px;
+  z-index: 0;
+}
+
+.fkLPYB {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/Armin_L.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dOPCqM {
+  margin-left: 20px;
+}
+
+.jXKMlK {
+  font-weight: 400;
+  color: #697180;
+  text-decoration: none;
+  margin-bottom: 0px;
+  max-height: 36px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.jXKMlK::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 18px;
+  width: 20%;
+}
+
+.ivJwGr {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0px 20px 20px;
+  height: 63px;
+}
+
+.iYCMlS {
+  margin-right: 10px;
+}
+
+.gKNXUY {
+  display: block;
+}
+
+.dHUZFd {
+  font-weight: 400;
+  color: #697180;
+  text-decoration: none;
+  margin-bottom: 5px;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.iqzhdo {
+  font-weight: 700;
+  color: #1d2129;
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.iqMlOV {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+
+.koupBt {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: #242529 0px 0px 0px 2px inset;
+  color: #242529;
+}
+
+.glPLHD {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-size: 16px;
+  min-width: 75px;
+  min-height: 40px;
+  padding: 10px 15px;
+}
+
+.bSKjNJ {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/AfroNation2021-Festicket-655x420.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gcUmpT::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 22px;
+  width: 20%;
+}
+
+@media (min-width: 961px) {
+  .gcUmpT::before {
+    width: 20%;
+  }
+}
+@media (min-width: 569px) {
+  .gcUmpT::before {
+    background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+    content: "‌";
+    display: block;
+    position: absolute;
+    right: 0px;
+    top: 24px;
+    width: 20%;
+  }
+}
+@media (min-width: 569px) {
+  .gcUmpT::before {
+    width: 20%;
+  }
+}
+@media (min-width: 961px) {
+  .gcUmpT::before {
+    width: 20%;
+  }
+}
+.djdDsp:not(:last-child) {
+  margin-bottom: 10px;
+}
+
+.djdDsp {
+  padding: 0px;
+  list-style: none;
+  min-height: 1.2em;
+  max-height: 1.2em;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  display: block;
+  line-height: 1.2;
+  background-color: white;
+}
+
+.iljbZw::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 100%);
+  content: "";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 50px;
+  text-align: center;
+  z-index: 1;
+}
+
+.fsdYVC {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/65226632_10157553665991654_5836595229364322304_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.iFONec {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/megan-thee-stallion.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jBMawB {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: #ff7500 0px 0px 0px 2px inset;
+  color: #ff7500;
+}
+
+.hhVpKz {
+  cursor: pointer;
+  text-decoration: none;
+  color: #00c3ef;
+}
+
+.ZXZVX {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/RollingLoud-Festicket-Card_mpobrv4.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.iljbZw::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 100%);
+  content: "‌";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 50px;
+  text-align: center;
+  z-index: 1;
+}
+
+.ljiXFS {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/ASAPRocky.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fJATLm {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/TravisScott_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gKNXUY {
+  display: block;
+}
+
+.kIELcE {
+  width: 120px;
+  height: 40px;
+}
+
+.enqZFJ {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: #00c3ef 0px 0px 0px 2px inset;
+  color: #00c3ef;
+}
+
+.jFyksS {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/PearlJam_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gAwstT {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/Pixies.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gBdenB {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: #ed0d0d 0px 0px 0px 2px inset;
+  color: #ed0d0d;
+}
+
+.dViDD {
+  fill: currentcolor;
+}
+
+.iDNWHN {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/BSTCard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.iLJzKR {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/10744-card.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ejPhGA {
+  font-weight: 400;
+  color: #697180;
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.fuFLcO {
+  font-weight: 700;
+  color: #697180;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.bfgbNA {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: #ffc600 0px 0px 0px 2px inset;
+  color: #ffc600;
+}
+
+.fxRXqs {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/DavidGuetta.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gqDzGC {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/CharlotteDeWitte_New2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (min-width: 769px) {
+  .eYrKJX {
+    min-height: 260px;
+  }
+
+  .eYrKJX {
+    position: relative;
+    background-color: #00c3ef;
+  }
+}
+@media (min-width: 769px) {
+  .eYrKJX {
+    min-height: 260px;
+  }
+}
+.eYrKJX {
+  position: relative;
+  background-color: #00c3ef;
+}
+
+.bjpEEt {
+  padding: 20px;
+  background-color: #00c3ef;
+}
+
+@media (min-width: 769px) {
+  .bjpEEt {
+    display: flex;
+    -webkit-box-align: center;
+    align-items: center;
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    width: 62.5%;
+    padding-right: 140px;
+    padding-left: 35px;
+    z-index: 11;
+    height: 100%;
+    clip-path: polygon(0px 0px, calc(100% - 85px) 0px, calc(100% - 105px) 33%, 100% 45%, calc(100% - 80px) 100%, 0px 100%);
+  }
+}
+@media (min-width: 569px) {
+  .bjpEEt {
+    padding-left: 35px;
+    padding-right: 35px;
+  }
+}
+@media (min-width: 569px) {
+  .bjpEEt {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}
+@media (min-width: 769px) {
+  .bjpEEt {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+@media (min-width: 569px) {
+  .jZHEbz {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+.jPHBxy {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: white;
+  color: #00c3ef;
+}
+
+@media (min-width: 769px) {
+  .illzId {
+    display: block;
+  }
+}
+.dxashv {
+  background-image: url("../img/group.jpg");
+  background-position: 50% 16%;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 220px;
+  position: absolute;
+  top: 0px;
+  right: 0px;
+  width: 100%;
+  z-index: 10;
+}
+
+@media (max-width: 768px) {
+  .dxashv {
+    clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px calc(100% - 25px));
+  }
+}
+@media (min-width: 769px) {
+  .dxashv {
+    height: 100%;
+    width: calc(37.5% + 105px);
+  }
+}
+@media (min-width: 769px) {
+  .dxashv {
+    background-position-y: 25%;
+  }
+}
+.kPWTnD {
+  position: absolute;
+  display: flex;
+  z-index: 10;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  box-shadow: rgba(29, 33, 41, 0.15) 0px 2px 30px 0px;
+  cursor: pointer;
+  left: -19px;
+  top: calc(50% - 19px);
+}
+
+@media (max-width: 768px) {
+  .kPWTnD {
+    display: none;
+  }
+}
+@media (min-width: 961px) {
+  .kPWTnD {
+    display: none;
+  }
+}
+@media (max-width: 768px) {
+  .eeLDBQ {
+    display: none;
+  }
+}
+@media (min-width: 769px) {
+  .fYDGjU {
+    padding: 0px 50px;
+  }
+}
+@media (max-width: 768px) {
+  .ftmPtr::before {
+    content: "";
+    flex: 0 0 50px;
+  }
+}
+@media (max-width: 568px) {
+  .ftmPtr::before {
+    content: "";
+    flex: 0 0 20px;
+  }
+}
+@media (max-width: 768px) {
+  .ftmPtr::after {
+    content: "";
+    flex: 0 0 50px;
+  }
+}
+@media (max-width: 568px) {
+  .ftmPtr::after {
+    content: "";
+    flex: 0 0 20px;
+  }
+}
+.hzUlhH {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/Electronic_KWNZZ7p.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cqsEOr {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/House_hJqoj3K.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.JjSDx {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/Techno_narrow_Aa8Z1QM.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cwcjXl {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/Rock_narrow_L8qVcpZ.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gXhsUW {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/Multi-Genre_vJoC3Gf.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dmZuyc {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/Pop_rBuUwxc.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ctIPNK {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/Indie_oJ7Pqsh.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.llKbjE {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/HipHop_narrow_iTzbAE2.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.iCqtsk {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/explore-events-music-festivals-indie-alternative-rock_X4oCp43.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cyTpAA {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/DrumBass_2pm9kau.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.Hdrii {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 169.81%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x45/smart/filters:blur(3):quality(40)/www/photos/EDM_narrow_HDZKri4.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ipIANI {
+  width: 220px;
+  flex: 0 0 220px;
+  margin-right: 10px;
+}
+
+@media (max-width: 768px) {
+  .ipIANI {
+    scroll-snap-align: center;
+  }
+}
+.gwfEmz {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/LewisCapaldi_xaa9kTe.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kQHlAh {
+  position: absolute;
+  bottom: 0px;
+  left: 0px;
+  width: 100%;
+  padding: 60px 10px 10px;
+}
+
+@media (min-width: 569px) {
+  .kQHlAh {
+    padding: 80px 20px 20px;
+  }
+}
+@media (min-width: 769px) {
+  .kQHlAh {
+    will-change: transform;
+  }
+}
+.gDgVyH {
+  font-weight: 700;
+  color: white;
+  margin-bottom: 0px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media (min-width: 569px) {
+  .gDgVyH {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+.iIkqqm {
+  display: inline-block;
+  background: #1d2129;
+  padding: 2px 5px;
+}
+
+.eZKGbC {
+  display: inline-block;
+  background: #1d2129;
+  padding: 2px 5px;
+}
+
+@media (max-width: 960px) and (min-width: 769px) {
+  .ipIANI {
+    width: calc(50% - 10px);
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(50% - 10px);
+  }
+}
+@media (max-width: 960px) and (min-width: 769px) {
+  .ipIANI:nth-child(2n) {
+    margin-right: 20px;
+  }
+}
+@media (min-width: 961px) {
+  .ipIANI {
+    width: calc(33.3333% - 13.3333px);
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(33.3333% - 13.3333px);
+  }
+}
+@media (min-width: 769px) {
+  .ipIANI {
+    margin-right: 20px;
+  }
+}
+.glnFrG {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/PearlJam_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gtXBid {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/RHCP.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.izEBgQ {
+  position: absolute;
+  display: flex;
+  z-index: 10;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  box-shadow: rgba(29, 33, 41, 0.15) 0px 2px 30px 0px;
+  cursor: pointer;
+  right: -19px;
+  top: calc(50% - 19px);
+}
+
+@media (max-width: 768px) {
+  .izEBgQ {
+    display: none;
+  }
+}
+.izEBgQ {
+  position: absolute;
+  display: flex;
+  z-index: 10;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  box-shadow: rgba(29, 33, 41, 0.15) 0px 2px 30px 0px;
+  cursor: pointer;
+  right: -19px;
+  top: calc(50% - 19px);
+}
+
+@media (max-width: 768px) {
+  .izEBgQ {
+    display: none;
+  }
+}
+@media (min-width: 769px) {
+  .kGoaGi {
+    padding: 0px 50px;
+  }
+}
+.bAAogL {
+  position: relative;
+  overflow: hidden;
+  background-color: #0c0c0e;
+}
+
+.fqUlKw {
+  position: absolute;
+  transform: rotate(-21deg);
+  width: 400px;
+  height: 400px;
+  top: -157px;
+  left: -240px;
+}
+
+.klTmID {
+  fill: currentcolor;
+}
+
+@media (min-width: 769px) {
+  .fqUlKw {
+    width: 500px;
+    height: 500px;
+    top: -230px;
+    left: -240px;
+  }
+}
+.kBTsbb {
+  position: absolute;
+  transform: rotate(-21deg);
+  width: 350px;
+  height: 350px;
+  bottom: -100px;
+  right: -250px;
+}
+
+.klBDn {
+  position: relative;
+}
+
+.jODEBv {
+  display: flex;
+}
+
+.gSmudY {
+  margin: auto;
+  text-align: center;
+  padding: 40px 20px;
+}
+
+.jqcPPA {
+  font-weight: 700;
+  color: white;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media (min-width: 569px) {
+  .jqcPPA {
+    margin-bottom: 25px;
+  }
+}
+@media (min-width: 569px) {
+  .jqcPPA {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+@media (min-width: 769px) {
+  .jqcPPA {
+    margin-bottom: 30px;
+  }
+}
+.gsOXqO {
+  max-width: 250px;
+  margin: 0px auto;
+}
+
+.hWoYaO {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.eBIdjt {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  width: 100%;
+  background-color: #1db954;
+  color: white;
+}
+
+.kytCfH {
+  display: flex;
+  margin-right: 10px;
+}
+
+.eBIdjt svg {
+  fill: currentcolor;
+  color: white;
+}
+
+.bATdet {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/home_category_activities_beach_parties_FaHzX6b_uMRJrOK.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.gMqVgY {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/home_category_activities_family_friendly_Zdrlg4K.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.jMwlCw {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/Food_KjEiSjr.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bUgxmT {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/Glastonbury_V1_3ajis97.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kiiamV {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/2_kXIKo0g_ktvuejL.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fvSxHf {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/louise-burton-backpacking_9LNy5GC.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bxdxIj {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/ZrceSpring3_crop.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kSOtbQ {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/home_category_activities_snowsports_p0DKiGo.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hgpWXk {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/Kings_Day.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dKqrvF {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/CollectionsNYE_aiTjpy1.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cMngpq {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 113.21%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/27x30/smart/filters:blur(3):quality(40)/www/photos/ADEActivity_3ZGUkRq.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hAkCXB {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  padding: 0px;
+}
+
+.cqakWC {
+  margin-bottom: 20px;
+}
+
+@media (max-width: 768px) {
+  .cqakWC {
+    width: 100%;
+  }
+}
+@media (min-width: 569px) {
+  .cqakWC {
+    margin-bottom: 25px;
+  }
+}
+@media (max-width: 960px) and (min-width: 769px) {
+  .cqakWC {
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(50% - 10px);
+  }
+}
+@media (min-width: 961px) {
+  .cqakWC {
+    -webkit-box-flex: 0;
+    flex: 0 0 calc(33.3333% - 13.3333px);
+  }
+}
+.dwxHHI {
+  display: flex;
+  flex-direction: row-reverse;
+  background-color: white;
+  transition-duration: 350ms;
+}
+
+@media (min-width: 769px) {
+  .dwxHHI {
+    flex-direction: column;
+  }
+}
+.eQzMuv {
+  position: relative;
+  overflow: hidden;
+  height: 0px;
+}
+
+@media (min-width: 769px) {
+  .eQzMuv {
+    padding-bottom: 56%;
+  }
+}
+@media (min-width: 961px) {
+  .eQzMuv {
+    padding-bottom: 70%;
+  }
+}
+.efkkiJ {
+  display: inline-flex;
+  -webkit-box-align: center;
+  align-items: center;
+  background-color: white;
+  padding: 0px 5px;
+  height: 24px;
+}
+
+.iASZZk {
+  position: absolute;
+  top: 5px;
+  right: 5px;
+  z-index: 10;
+}
+
+@media (min-width: 569px) {
+  .iASZZk {
+    top: 10px;
+    right: 10px;
+  }
+}
+.cdGXAl {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 70.26%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/42x29/center/middle/filters:blur(3):quality(40)/www/magazine/124440532_10158215221839177_8703406527857208521_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fBBzYk {
+  display: inline;
+  margin: 0px;
+  line-height: 18px;
+  white-space: nowrap;
+}
+
+.gQXujJ {
+  position: relative;
+  flex-shrink: 0;
+  width: 100px;
+  height: 100px;
+}
+
+@media (min-width: 569px) {
+  .gQXujJ {
+    width: 140px;
+    height: 140px;
+  }
+}
+@media (min-width: 769px) {
+  .gQXujJ {
+    display: none;
+  }
+}
+.dRDhZY {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/14x14/center/middle/filters:blur(3):quality(40)/www/magazine/124440532_10158215221839177_8703406527857208521_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.ibvHhI {
+  -webkit-box-flex: 1;
+  flex-grow: 1;
+  padding: 10px 10px 10px 0px;
+}
+
+@media (min-width: 769px) {
+  .ibvHhI {
+    padding: 20px 25px 25px;
+  }
+}
+.kgdTnj {
+  font-weight: 700;
+  color: #1d2129;
+  margin-bottom: 10px;
+  text-decoration: none;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+@media (max-width: 568px) {
+  .boIJza {
+    min-height: 66px;
+    max-height: 66px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+  }
+}
+@media (max-width: 768px) and (min-width: 569px) {
+  .boIJza {
+    min-height: 72px;
+    max-height: 72px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+  }
+}
+@media (min-width: 569px) {
+  .kgdTnj {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
+@media (min-width: 769px) {
+  .boIJza {
+    min-height: 48px;
+    max-height: 48px;
+    overflow: hidden;
+    position: relative;
+    display: block;
+  }
+}
+.hKFGAi {
+  font-weight: 300;
+  color: #1d2129;
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.csgOgU {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 70.26%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/42x29/center/middle/filters:blur(3):quality(40)/www/magazine/TGE2021.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.bhSKSw {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/14x14/center/middle/filters:blur(3):quality(40)/www/magazine/TGE2021.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fHfewH {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 70.26%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/42x29/center/middle/filters:blur(3):quality(40)/www/magazine/OSoldaCaparica2019_V3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dROMVk {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/14x14/center/middle/filters:blur(3):quality(40)/www/magazine/OSoldaCaparica2019_V3.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cGCCGi {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 70.26%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/42x29/center/middle/filters:blur(3):quality(40)/www/magazine/121634482_1701524766672980_6598071666756936147_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kmYpvr {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/14x14/center/middle/filters:blur(3):quality(40)/www/magazine/121634482_1701524766672980_6598071666756936147_o.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.kbQtOn {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 70.26%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/42x29/center/middle/filters:blur(3):quality(40)/www/magazine/David_Guetta_Dj_Mag1098.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.hsmTYb {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/14x14/center/middle/filters:blur(3):quality(40)/www/magazine/David_Guetta_Dj_Mag1098.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.isBngw {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 70.26%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/42x29/center/middle/filters:blur(3):quality(40)/www/magazine/RebrandFinal2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.dwaXOX {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/14x14/center/middle/filters:blur(3):quality(40)/www/magazine/RebrandFinal2.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+@media (max-width: 960px) {
+  .ckthpU {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+  }
+}
+@media (min-width: 769px) {
+  .cqakWC {
+    margin-right: 20px;
+  }
+}
+@media (min-width: 769px) {
+  .cqakWC {
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 960px) and (min-width: 769px) {
+  .cqakWC:nth-child(2n) {
+    margin-right: 0px;
+  }
+}
+@media (min-width: 961px) {
+  .cqakWC:nth-child(3n) {
+    margin-right: 0px;
+  }
+}
+.SWjai {
+  position: relative;
+  text-align: left;
+}
+
+.qJMWK {
+  font-weight: 700;
+  color: #1d2129;
+  margin-bottom: 30px;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+@media (min-width: 569px) {
+  .qJMWK {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+@media (min-width: 569px) {
+  .qJMWK {
+    margin-bottom: 35px;
+  }
+}
+@media (min-width: 769px) {
+  .qJMWK {
+    margin-bottom: 40px;
+  }
+}
+@media (min-width: 769px) {
+  .qJMWK {
+    font-size: 30px;
+    line-height: 34px;
+  }
+}
+.ltuaj {
+  font-weight: 300;
+  color: #1d2129;
+  margin-bottom: 30px;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+@media (min-width: 569px) {
+  .ltuaj {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+@media (min-width: 569px) {
+  .ltuaj {
+    margin-bottom: 35px;
+  }
+}
+@media (min-width: 769px) {
+  .ltuaj {
+    margin-bottom: 40px;
+  }
+}
+@media (min-width: 769px) {
+  .ltuaj {
+    font-size: 30px;
+    line-height: 34px;
+  }
+}
+.iMBJJY {
+  margin: -15px 0px;
+}
+
+.kwjkI {
+  padding: 15px 0px;
+  box-sizing: border-box;
+}
+
+@media (min-width: 569px) {
+  .kwjkI {
+    padding: 15px;
+  }
+}
+@media (min-width: 569px) {
+  .kwjkI {
+    width: 50%;
+  }
+}
+@media (min-width: 769px) {
+  .kwjkI {
+    width: 40%;
+  }
+}
+.bnBDqH {
+  padding: 15px 0px;
+  box-sizing: border-box;
+}
+
+.hEJoJU {
+  position: relative;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  padding: 0px;
+}
+
+.fODnft:required {
+  box-shadow: none;
+}
+
+.fODnft {
+  padding: 15px 40px 15px 20px;
+  color: #1d2129;
+  height: 50px;
+  font-size: 16px;
+  font-weight: normal;
+  background-color: white;
+  outline: none;
+  width: 100%;
+  border: 2px solid #c9ccd1;
+  line-height: 1.12;
+}
+
+.eLZgDE {
+  font-weight: 300;
+  color: #697180;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.jugXpO {
+  cursor: text;
+  position: absolute;
+  top: 0px;
+  left: 3px;
+  padding: 0px 21px;
+  margin: 0px;
+  background-color: white;
+  transform: translateY(17px);
+  transition: transform 350ms ease 0s, font-size 350ms ease 0s;
+}
+
+.caFaBc {
+  position: absolute;
+  top: 18px;
+  right: 20px;
+  opacity: 0;
+  will-change: opacity;
+  pointer-events: none;
+  width: 14px;
+  height: 14px;
+  fill: #f26161;
+}
+
+.hAHzGt {
+  fill: currentcolor;
+  position: absolute;
+  top: 18px;
+  right: 20px;
+  opacity: 0;
+  will-change: opacity;
+  pointer-events: none;
+  width: 14px;
+  height: 14px;
+}
+
+@media (min-width: 569px) {
+  .iMBJJY {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -15px;
+  }
+}
+@media (min-width: 569px) {
+  .bnBDqH {
+    width: 100%;
+  }
+}
+@media (min-width: 569px) {
+  .bnBDqH {
+    padding: 15px;
+  }
+}
+@media (min-width: 769px) {
+  .bnBDqH {
+    width: 20%;
+  }
+}
+.jTqswQ {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  width: 100%;
+  background-color: #242529;
+  color: white;
+}
+
+.bIKmzS {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-size: 16px;
+  min-width: 200px;
+  min-height: 50px;
+  padding: 15px 30px;
+}
+
+.bxRqbv > span {
+  min-width: 0px;
+  width: 100%;
+}
+
+.faJMPz {
+  display: none;
+  align-items: flex-start;
+  -webkit-box-pack: center;
+  justify-content: center;
+  overflow: auto;
+  z-index: 50;
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  background-color: white;
+  width: 100%;
+  height: 100%;
+  border: 0px;
+  padding: 0px;
+}
+
+@media (min-width: 569px) {
+  .faJMPz {
+    -webkit-box-pack: center;
+    justify-content: center;
+    -webkit-box-align: center;
+    align-items: center;
+    background-color: rgba(29, 33, 41, 0.9);
+  }
+}
+.faJMPz[open] {
+  display: flex;
+}
+
+element.style {
+  opacity: 1;
+}
+
+.kRhmIg {
+  position: fixed;
+  top: 25px;
+  right: 20px;
+  z-index: 51;
+}
+
+.bmDVQJ {
+  display: inline-block;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  border-radius: 50%;
+  padding: 0px;
+  cursor: pointer;
+  background-color: white;
+  color: #697180;
+  transition: transform 0.1s ease 0s;
+}
+
+.jVHLxL {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+
+.bmDVQJ .styles__c-sc-1aryl2z-0 {
+  width: 38px;
+  height: 38px;
+  position: relative;
+}
+
+.keqXjt {
+  width: 100%;
+  padding: 0px;
+  height: 100%;
+}
+
+@media (min-width: 569px) {
+  .keqXjt {
+    margin: auto;
+    height: auto;
+    pointer-events: none;
+    padding: 50px 0px;
+  }
+}
+.hjLxTQ {
+  margin-bottom: 0px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+@media (min-width: 769px) {
+  .hjLxTQ {
+    padding-top: 50px;
+    padding-bottom: 50px;
+  }
+}
+.eLJdKc {
+  font-weight: 700;
+  color: #1d2129;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+@media (min-width: 569px) {
+  .eLJdKc {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+@media (min-width: 569px) {
+  .eLJdKc {
+    margin-bottom: 25px;
+  }
+}
+@media (min-width: 769px) {
+  .eLJdKc {
+    font-size: 30px;
+    line-height: 34px;
+  }
+}
+@media (min-width: 769px) {
+  .eLJdKc {
+    margin-bottom: 30px;
+  }
+}
+.gsfvtG {
+  font-weight: 400;
+  color: #1d2129;
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 16px;
+  line-height: 20px;
+}
+
+.hbQobb {
+  margin-bottom: 20px;
+}
+
+.dHJnp {
+  font-weight: 400;
+  color: #697180;
+  margin-bottom: 20px;
+  text-decoration: none;
+  text-align: center;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.jtDHxU {
+  margin-top: 0px;
+  margin-bottom: 20px;
+}
+
+.jTqswQ {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  width: 100%;
+  background-color: #242529;
+  color: white;
+}
+
+.bVuOOw {
+  width: 100%;
+  background-color: #4b6ebd;
+  color: white;
+}
+
+.bIKmzS {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-size: 16px;
+  min-width: 200px;
+  min-height: 50px;
+  padding: 15px 30px;
+}
+
+.kytCfH {
+  display: flex;
+  margin-right: 10px;
+}
+
+.bVuOOw svg {
+  fill: currentcolor;
+}
+
+.dPaSoN {
+  background-color: white;
+  width: 100%;
+  max-width: 100%;
+  height: 100%;
+  margin: 0px auto;
+  pointer-events: none;
+}
+
+.gSFNTt {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  width: 100%;
+  background-color: rgba(36, 37, 41, 0.15);
+  color: white;
+  pointer-events: none;
+}
+
+.kciIfC {
+  margin-bottom: 20px;
+}
+
+.fGlOyY {
+  font-weight: 400;
+  color: #697180;
+  text-decoration: none;
+  text-align: left;
+  margin-bottom: 0px;
+  font-size: 14px;
+  line-height: 18px;
+}
+
+.cKDOOq {
+  cursor: pointer;
+  text-decoration: underline;
+  font-weight: 400;
+  color: inherit;
+}
+
+.jtJCTg {
+  text-align: center;
+}
+
+.bgBAzs {
+  cursor: pointer;
+  text-decoration: underline;
+  font-weight: 400;
+  color: #1d2129;
+}
+
+@media (min-width: 569px) {
+  .dPaSoN {
+    min-height: auto;
+    width: 420px;
+    height: auto;
+  }
+}
+.dPaSoN > * {
+  pointer-events: auto;
+}
+
+.jzwZdZ {
+  border-top: none #e0e1e4;
+  border-right: none #e0e1e4;
+  border-left: none #e0e1e4;
+  border-image: initial;
+  border-bottom: 1px solid #e0e1e4;
+}
+
+.jOKMne {
+  margin-bottom: 60px;
+  padding-top: 20px;
+  padding-bottom: 20px;
+}
+
+@media (min-width: 569px) {
+  .jOKMne {
+    padding-top: 25px;
+    padding-bottom: 25px;
+  }
+}
+@media (min-width: 569px) {
+  .jOKMne {
+    margin-bottom: 80px;
+  }
+}
+@media (min-width: 769px) {
+  .jOKMne {
+    margin-bottom: 100px;
+  }
+}
+@media (min-width: 769px) {
+  .jOKMne {
+    padding-top: 30px;
+    padding-bottom: 30px;
+  }
+}
+
+/*# sourceMappingURL=main.css.map */

@@ -1,0 +1,1065 @@
+.hPCRKU {
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+  min-height: 300px;
+}
+
+.hPCRKU::before {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 100px;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 2000px;
+  width: 100%;
+  z-index: -1;
+  height: 200px;
+  background: rgb(242, 243, 245);
+  clip-path: polygon(0px 0px, 100% 0px, 100% 0px, 0px 100%);
+}
+
+.huUtev {
+  max-width: 100%;
+  margin: 0px auto;
+  padding: 0px;
+}
+
+@media (min-width: 569px) {
+  .huUtev {
+    padding: 0px;
+  }
+}
+
+@media (min-width: 961px) {
+  .huUtev {
+    width: 1220px;
+  }
+}
+
+.dyAoGs {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  color: white;
+  background-color: rgb(29, 33, 41);
+  z-index: 1;
+}
+
+@media (min-width: 769px) {
+  .dyAoGs {
+    top: 30px;
+    left: 30px;
+    color: rgb(29, 33, 41);
+    background: none;
+  }
+}
+
+.ensZET {
+  display: inline;
+  padding: 0px;
+}
+
+.kHfWq {
+  display: inline;
+}
+.kjozgz {
+  text-decoration: underline;
+  color: white;
+
+}
+.kHfWq::after {
+  content: " / ";
+}
+.KXzYv {
+  display: flex;
+  position: relative;
+  max-height: 415px;
+  overflow: hidden;
+  -webkit-box-align: center;
+  align-items: center;
+}
+@media (min-width: 769px) {
+  .KXzYv {
+    margin: 60px 50px 0px;
+  }
+}
+.bKfNes {
+  display: none;
+}
+@media (max-width: 768px) {
+  .bKfNes {
+    display: block;
+    width: 100%;
+  }
+}
+
+.kbPAme {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 111.56%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/32x36/smart/filters:blur(3):quality(40)/www/photos/CollectionsUnitedKingdom.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.iemZeu {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  filter: blur(10px);
+}
+.kYBUcs {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  bottom: 0px;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  will-change: opacity;
+  transition: opacity 0.6s ease-in-out 0s;
+  opacity: 1;
+}
+.gSVtXu {
+  display: none;
+}
+@media (min-width: 769px) {
+  .gSVtXu {
+    display: block;
+    width: 100%;
+  }
+}
+
+.QGnMA {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 38.13%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/112x43/smart/filters:blur(3):quality(40)/www/photos/CollectionsUnitedKingdom.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.eNfHEg {
+  position: absolute;
+  left: 20px;
+  right: 20px;
+  bottom: 40px;
+  text-align: center;
+}
+@media (min-width: 569px) {
+  .eNfHEg {
+    left: 45px;
+    right: 45px;
+    bottom: 50px;
+  }
+}
+
+@media (min-width: 769px) {
+  .eNfHEg {
+    text-align: left;
+  }
+}
+.hHViNy {
+  font-weight: 700;
+  color: white;
+  margin-bottom: 0px;
+  text-decoration: none;
+  font-size: 36px;
+  line-height: 40px;
+}
+@media (min-width: 569px) {
+  .hHViNy {
+    font-size: 40px;
+    line-height: 44px;
+  }
+}
+@media (min-width: 769px) {
+  .hHViNy {
+    font-size: 42px;
+    line-height: 46px;
+  }
+}
+.bkuUHR {
+  display: inline;
+  background: rgb(29, 33, 41);
+}
+.bbpFDm {
+  margin-bottom: 40px;
+}
+@media (min-width: 769px) {
+  .bbpFDm {
+    margin-bottom: 50px;
+  }
+}
+.jigBmz {
+  display: flex;
+  padding: 20px 0px;
+  border-bottom: 1px solid rgb(201, 204, 209);
+}
+@media (max-width: 768px) {
+  .jigBmz {
+    text-align: center;
+    -webkit-box-align: center;
+    align-items: center;
+    -webkit-box-pack: center;
+    justify-content: center;
+  }
+}
+@media (min-width: 769px) {
+  .jigBmz {
+    padding: 30px 0px;
+  }
+}
+.hGTLrY {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-direction: column;
+}
+@media (max-width: 768px) {
+  .jigBmz > div {
+    flex: 1 1 0%;
+    padding: 0px 40px;
+    border-left: 1px solid rgb(201, 204, 209);
+  }
+}
+@media (max-width: 768px) {
+  .jigBmz > div:first-child {
+    border: none;
+  }
+}
+@media (max-width: 568px) {
+  .jigBmz > div:nth-child(n+3) {
+    display: none;
+  }
+}
+
+@media (min-width: 769px) {
+  .hGTLrY {
+    flex-direction: row;
+  }
+}
+@media (min-width: 769px) {
+  .jigBmz > div {
+    margin-right: 20px;
+  }
+}
+.iWREGb {
+  fill: currentcolor;
+}
+.hGTLrY svg {
+  margin-bottom: 10px;
+}
+@media (min-width: 769px) {
+  .hGTLrY svg {
+    margin-bottom: 0px;
+    margin-right: 10px;
+  }
+}
+.hVPLFt {
+  font-weight: 400;
+  color: rgb(29, 33, 41);
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 14px;
+  line-height: 18px;
+}
+.bbpFDm {
+  margin-bottom: 40px;
+}
+@media (min-width: 769px) {
+  .bbpFDm {
+    margin-bottom: 50px;
+  }
+}
+
+.FsHrb {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  margin-bottom: 30px;
+}
+@media (min-width: 569px)
+{
+.FsHrb {
+  margin-bottom: 35px;
+}
+  @media (min-width: 769px) {
+    .FsHrb {
+      margin-bottom: 40px;
+    }
+  }
+}
+
+
+
+
+.EBtUQ {
+  font-weight: 700;
+  color: rgb(29, 33, 41);
+  margin-bottom: 0px;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+}
+
+@media (min-width: 569px) {
+  .EBtUQ {
+    font-size: 28px;
+    line-height: 32px;
+  }
+}
+@media (min-width: 769px) {
+  .EBtUQ {
+    font-size: 30px;
+    line-height: 34px;
+  }
+}
+.fMXkMu {
+  display: block;
+  margin: -10px 0px;
+}
+@media (min-width: 569px) {
+  .fMXkMu {
+    display: flex;
+    flex-wrap: wrap;
+    margin: -25px -13px;
+  }
+}
+.fMXkMu > div {
+  padding: 10px 0px;
+}
+@media (min-width: 569px) {
+  .fMXkMu > div {
+    padding: 25px 13px;
+    width: 50%;
+    max-width: 50%;
+  }
+}
+
+@media (min-width: 769px) {
+  .fMXkMu > div {
+    width: 33.3333%;
+    max-width: 33.3333%;
+  }
+}
+.kcNVpr {
+  position: relative;
+  border-radius: 5px;
+  box-shadow: rgba(29, 33, 41, 0.05) 0px 2px 11px, rgba(29, 33, 41, 0.12) 0px 1px 3px;
+  background-color: white;
+}
+.gqRXzi {
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(237, 13, 13);
+}
+.GzVgp {
+  color: rgb(105, 113, 128);
+}
+.kcNVpr a {
+  text-decoration: none;
+}
+.eoBpts {
+  position: absolute;
+  z-index: 1;
+  top: 10px;
+  right: 10px;
+  display: flex;
+  width: 38px;
+  height: 38px;
+  border-radius: 100%;
+  background-color: white;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+}
+.dViDD {
+  fill: currentcolor;
+}
+.emXbBz {
+  position: relative;
+  line-height: 0;
+  z-index: 0;
+}
+.bdGfLa {
+  border-top-left-radius: 5px;
+  border-top-right-radius: 5px;
+  background-color: rgb(242, 243, 245);
+}
+.iDNWHN {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/BSTCard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.ldatzF {
+  padding: 20px;
+  height: 156px;
+}
+@media (min-width: 569px) {
+  .ldatzF {
+    height: 160px;
+  }
+}
+.gcUmpT {
+  font-weight: 700;
+  color: rgb(29, 33, 41);
+  margin-bottom: 5px;
+  text-decoration: none;
+  max-height: 44px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+  font-size: 18px;
+  line-height: 22px;
+}
+
+.gcUmpT::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+  content: "‌";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 22px;
+  width: 20%;
+}
+
+.djdDsp {
+  padding: 0px;
+  list-style: none;
+  min-height: 1.2em;
+  max-height: 1.2em;
+  overflow: hidden;
+  white-space: nowrap;
+  position: relative;
+  display: block;
+  line-height: 1.2;
+  background-color: rgb(255, 255, 255);
+}
+.djdDsp:not(:last-child) {
+  margin-bottom: 10px;
+}
+.cTKhZB {
+  display: inline-block;
+}
+.NOWTV {
+  font-weight: 400;
+  color: rgb(29, 33, 41);
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 14px;
+  line-height: 18px;
+}
+.cTKhZB:not(:last-of-type)::after {
+  content: "•";
+  color: rgb(29, 33, 41);
+  margin: 0px 5px;
+}
+.cNVIiS {
+  display: flex;
+  -webkit-box-pack: start;
+  justify-content: flex-start;
+  -webkit-box-align: center;
+  align-items: center;
+}
+.jkLDeb {
+  display: flex;
+}
+.hgTIaT {
+  margin-right: -11px;
+  z-index: 1;
+}
+.htljAj {
+  border-radius: 50%;
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  overflow: hidden;
+  flex: 0 0 38px;
+  width: 38px;
+  height: 38px;
+  border: 2px solid white;
+}
+.jFyksS {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/PearlJam_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.htljAj img, .htljAj svg {
+  width: 100%;
+  object-fit: cover;
+}.eFmoIZ {
+   margin-right: -11px;
+   z-index: 0;
+ }
+.gAwstT {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/Pixies.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.dOPCqM {
+  margin-left: 20px;
+}
+.jXKMlK {
+  font-weight: 400;
+  color: rgb(105, 113, 128);
+  text-decoration: none;
+  margin-bottom: 0px;
+  max-height: 36px;
+  overflow: hidden;
+  position: relative;
+  display: block;
+  font-size: 14px;
+  line-height: 18px;
+}
+.jXKMlK::before {
+  background: linear-gradient(90deg, rgba(255, 255, 255, 0) 0px, white 50%);
+  content: "‌";
+  display: block;
+  position: absolute;
+  right: 0px;
+  top: 18px;
+  width: 20%;
+}
+.ivJwGr {
+  display: flex;
+  -webkit-box-pack: justify;
+  justify-content: space-between;
+  -webkit-box-align: center;
+  align-items: center;
+  flex-wrap: wrap;
+  padding: 0px 20px 20px;
+  height: 63px;
+}
+.iYCMlS {
+  margin-right: 10px;
+}
+.dHUZFd {
+  font-weight: 400;
+  color: rgb(105, 113, 128);
+  text-decoration: none;
+  margin-bottom: 5px;
+  font-size: 14px;
+  line-height: 18px;
+}
+.gKNXUY {
+  display: block;
+}
+.iqzhdo {
+  font-weight: 700;
+  color: rgb(29, 33, 41);
+  text-decoration: none;
+  margin-bottom: 0px;
+  font-size: 16px;
+  line-height: 20px;
+}
+.iqMlOV {
+  position: absolute;
+  bottom: 20px;
+  right: 20px;
+}
+.hWoYaO {
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.gBdenB {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: rgb(237, 13, 13) 0px 0px 0px 2px inset;
+  color: rgb(237, 13, 13);
+}
+.kcNVpr a {
+  text-decoration: none;
+}
+.paEKo {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/NeighborhoodWeekender_C.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fjnluL {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/IanBrown.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.BlsEa {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/CatfishAndTheBottlemen_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hdwWal {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: rgb(0, 112, 246) 0px 0px 0px 2px inset;
+  color: rgb(0, 112, 246);
+}
+.hkcvZP {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/IOWCard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hCREtb {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/Lionel.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hFZZIb {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/LEWIS_CAPALDI_Leadshot_RGB.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.glPLHD {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-size: 16px;
+  min-width: 75px;
+  min-height: 40px;
+  padding: 10px 15px;
+}
+.enqZFJ {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: rgb(0, 195, 239) 0px 0px 0px 2px inset;
+  color: rgb(0, 195, 239);
+}
+.dvbJZD {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/9797-card.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.efxItl {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/DJ-Koze.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.lfxgPE {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/AmelieLens_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.mYwoT {
+  cursor: pointer;
+  text-decoration: none;
+  color: rgb(255, 117, 0);
+}
+.gJzJAu {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/11712-card.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.kplIwh {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/deadmau5_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.cTqGXI {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/carlcox-2018.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jexjPO {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/ElDoradoCard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.fJOKwV {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/12415-card.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.jgbZDD {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/Sonny_TA_655x420.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.immIJn {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/11813-card_zfydwbR.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.krBUIa {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/KerriChandler_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.leJblF {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/performances/Louievega.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.kCuIel {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/HospDockCard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.bPhOnf {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: rgb(26, 214, 136) 0px 0px 0px 2px inset;
+  color: rgb(26, 214, 136);
+}
+.hxOBMX {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/9083-card.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.fmyFqP {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/NinaKraviz_New.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.gNHecp {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/artists/Floorpland.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.koupBt {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  background-color: transparent;
+  box-shadow: rgb(36, 37, 41) 0px 0px 0px 2px inset;
+  color: rgb(36, 37, 41);
+}
+.fvUvTE {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 64.07%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/36x23/center/middle/filters:blur(3):quality(40)/www/photos/ManReggaeCard.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.hmuPsE {
+  display: block;
+  position: relative;
+  width: 100%;
+  height: 0px;
+  padding-bottom: 100%;
+  overflow: hidden;
+  background-image: url("https://media.resources.festicket.com/image/30x30/center/top/filters:blur(3):quality(40)/www/performances/New-UB40-hero-2000x800.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+.azIsF {
+  text-align: center;
+}
+.lnvcSA {
+  position: relative;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  font-weight: 700;
+  border-radius: 2px;
+  padding: 0px;
+  font-size: 0px;
+  transition: transform 0.1s ease 0s;
+  color: rgb(105, 113, 128);
+  background-color: rgba(29, 33, 41, 0.05);
+}
+.bIKmzS {
+  display: flex;
+  -webkit-box-align: center;
+  align-items: center;
+  -webkit-box-pack: center;
+  justify-content: center;
+  font-size: 16px;
+  min-width: 200px;
+  min-height: 50px;
+  padding: 15px 30px;
+}
+.hPCRKU::after {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  height: 101px;
+  background: rgb(242, 243, 245);
+  z-index: -1;
+}
+.ktodFq {
+  position: relative;
+  overflow: hidden;
+  z-index: 0;
+  min-height: 200px;
+  background: rgb(242, 243, 245);
+  padding-top: 200px;
+}
+.ktodFq::before {
+  display: block;
+  content: "";
+  position: absolute;
+  top: 0px;
+  left: 50%;
+  transform: translateX(-50%);
+  min-width: 2000px;
+  width: 100%;
+  z-index: -1;
+  height: 200px;
+  background: white;
+  clip-path: polygon(0px 0px, 100% 0px, 100% 100%, 0px 0px);
+}
+.dXRloZ {
+  max-width: 100%;
+  margin: 0px auto;
+  padding: 0px 20px;
+}
+@media (min-width: 569px) {
+  .dXRloZ {
+    padding: 0px 50px;
+  }
+}
+@media (min-width: 769px) {
+  .dXRloZ {
+    width: 650px;
+  }
+}
+@media (min-width: 961px) {
+  .dXRloZ {
+    width: 800px;
+  }
+}
+
+
+hwXnzJ {
+  padding-bottom: 40px;
+}
+@media (min-width: 569px) {
+  .hwXnzJ {
+     padding-bottom: 50px;
+   }
+}
+.eLJdKc {
+  font-weight: 700;
+  color: rgb(29, 33, 41);
+  margin-bottom: 20px;
+  text-decoration: none;
+  font-size: 24px;
+  line-height: 28px;
+}
+.cbTcYV {
+  font-weight: 300;
+}
+.ipuSKH h1, .ipuSKH h2, .ipuSKH h3, .ipuSKH h4, .ipuSKH h5, .ipuSKH h6, .ipuSKH p:not(:last-child), .ipuSKH ul:not(:last-child), .ipuSKH ol:not(:last-child) {
+  margin-bottom: 20px;
+
+}
+
+.ipuSKH a {
+  text-decoration: underline;
+  font-weight: 400;
+  color: rgb(29, 33, 41);
+}
